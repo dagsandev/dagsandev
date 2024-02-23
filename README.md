@@ -5,13 +5,11 @@
 
 <br>
 
-📫[Feel free to reach out to me by email](mailto:santidaglio@gmail.com)
+📫 Contact me:
 
-<br>
-<h3 align="left">Visit my Linkedin profile:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiamma-muscari/)
+[![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:santidaglio@gmail.com)
 
-<p align="center"><a href="https://www.linkedin.com/in/dagliosantiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dagliosantiago/" height="30" width="40" /></a>
-</p>
 
 <br>
 
