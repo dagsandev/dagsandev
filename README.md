@@ -7,7 +7,7 @@
 
 📫 Contact me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiamma-muscari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagliosantiago/)
 [![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:santidaglio@gmail.com)
 
 
