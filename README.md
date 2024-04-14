@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago.</h1>
-<h3 align="center">A passionate software developer from Argentina specialized in backend with Java.</h3>
-
+<p align="center">
+  <a href="https://dagsan.dev">
+    <img src="https://www.dagsan.dev/img/argentina-icon.webp">
+  </a>
+</p>
 <hr>
 
 <br>
