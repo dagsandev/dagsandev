@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santiago.</h1>
-<p align="center">From</p>
+<p align="center">From Buenos Aires, Argentina.</p>
 <p align="center">
-  <a href="https://dagsan.dev">
-    <img src="https://www.dagsan.dev/img/argentina-icon.webp">
-  </a>
 </p>
-<p align="center">Software developer specialized in backend with Java.<//p>
+<p align="center">Software developer specialized in backend. Lately, I’ve been working with .NET, MAUI, C# & SQL Server.</p>
 <hr>
 
 <br>
