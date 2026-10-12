@@ -27,11 +27,3 @@
     <img src="https://skillicons.dev/icons?i=angular,js,tailwind,cs,dotnet,mysql,postman,aws,docker&theme=dark&perline=3" />
   </a>
 </p>
-
-<br>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagsandev&show_icons=true&locale=en&layout=compact" alt="dagsandev" /></p>
-
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dagsandev&label=Profile%20views&color=0e75b6&style=flat" alt="dagsandev" /> </p>
